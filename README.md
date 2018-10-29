@@ -1,2 +1,2 @@
 # godel_escher_bach
-Notes from GEB book club I run
+Notes from GEB book club I ran.
